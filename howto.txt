@@ -1,0 +1,5 @@
+git add web.js # moves file to staging area
+git commit -m "fix for modified web.js to read from index.html" #commits file to local repo
+git push heroku master #push from local repo to heroku - deploy
+git push origin master #push to remote repo
+
